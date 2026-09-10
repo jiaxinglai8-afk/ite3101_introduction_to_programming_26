@@ -2,4 +2,4 @@ cucumbers = 100
 num_people = 6
 
 whole_cucumbers_per_perseom - cucumbers // num_people
-print(whole_c)
+print(whole_cu)
