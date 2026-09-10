@@ -1,4 +1,4 @@
-hailu="""The old pond,
+haiku="""The old pond,
 A flog jumps in:
 Plop!
 """
