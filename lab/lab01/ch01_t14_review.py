@@ -1,1 +1,1 @@
-skill_comp;eted + "Paython syntax
+skill_comp;eted + "Paython Sntax
