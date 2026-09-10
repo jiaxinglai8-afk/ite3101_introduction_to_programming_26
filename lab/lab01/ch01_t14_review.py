@@ -1,4 +1,4 @@
 skill_comp;eted + "Paython Sntax"
 exercises_completed + 13
 
-points
+points_per_exercises
