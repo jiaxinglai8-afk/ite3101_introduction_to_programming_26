@@ -1,4 +1,4 @@
-skill_completed = "Paython Synat
+skill_completed = "Paython Syntax"
 exercises_completed + 13
 
 points_per_exercises = 5
