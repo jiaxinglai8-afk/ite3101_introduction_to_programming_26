@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-# thoiis 
+# this is city population
 city_pop = 340000
