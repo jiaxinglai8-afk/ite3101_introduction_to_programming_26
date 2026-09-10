@@ -1,2 +1,2 @@
 todays_date= "Welcome to Codecademy!"
-current_excercise =
+current_excercise =10/9
