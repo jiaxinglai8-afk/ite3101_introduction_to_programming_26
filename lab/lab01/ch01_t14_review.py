@@ -1,4 +1,4 @@
-skill_completed = hon Syntax"
+skill_completed = "Paythonx"
 exercises_completed = 13
 
 points_per_exercise = 5
