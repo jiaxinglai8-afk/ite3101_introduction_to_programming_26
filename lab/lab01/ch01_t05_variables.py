@@ -1,1 +1,1 @@
-todays_date=f“{}
+todays_date=f“{达特time。da'te'time}
