@@ -1,4 +1,4 @@
 hailu="""The old pond,
-A flog jumps in;
+A flog jumps in:
 Plop!
 """
