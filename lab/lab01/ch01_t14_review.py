@@ -1,4 +1,4 @@
-skill_completed = "Payhon
+skill_completed = "Paython Synat
 exercises_completed + 13
 
 points_per_exercises = 5
