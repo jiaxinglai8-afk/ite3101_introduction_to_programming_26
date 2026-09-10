@@ -1,1 +1,1 @@
-todays_date=f“datetime。datetime}
+todays_date=f“datetime。datetime.now()}
