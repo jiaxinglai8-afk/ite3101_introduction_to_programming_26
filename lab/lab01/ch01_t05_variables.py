@@ -1,1 +1,1 @@
-todays_day
+todays_date
