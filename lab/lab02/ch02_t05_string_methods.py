@@ -1,3 +1,3 @@
-PARROT
+parrot
 print
 
