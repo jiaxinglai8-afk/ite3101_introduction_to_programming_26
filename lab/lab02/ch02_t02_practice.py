@@ -1,5 +1,5 @@
 caesar = "Graham"
-praline = "john"
+praline = "John"
 viking = "Teresa"
 
 
