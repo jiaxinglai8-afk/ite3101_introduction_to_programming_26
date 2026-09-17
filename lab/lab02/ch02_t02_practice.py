@@ -1,3 +1,0 @@
-
-praline=
-viking=
