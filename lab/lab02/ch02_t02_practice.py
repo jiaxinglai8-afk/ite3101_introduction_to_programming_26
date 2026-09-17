@@ -1,3 +1,3 @@
 caeser=("Graham")
-praline=("John")
+praline=
 viking=
