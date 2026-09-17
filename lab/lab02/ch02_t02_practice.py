@@ -1,5 +1,5 @@
 caesar = "Graham"
-pealine = "john"
+praline = "john"
 vikibf = "Teresa"
 print(caesar)
 print(p)
