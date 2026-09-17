@@ -1,6 +1,6 @@
 caesar = "Graham"
 praline = "john"
-vikibf = "Teresa"
+viking = "Teresa"
 print(caesar)
 print(praline)
 print(viking)
