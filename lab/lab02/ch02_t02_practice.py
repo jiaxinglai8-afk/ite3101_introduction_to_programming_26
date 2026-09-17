@@ -1,4 +1,5 @@
 caesar = "Graham"
 pealine = "john"
 vikibf = "Teresa"
-print
+print(caesar)
+print(p)
