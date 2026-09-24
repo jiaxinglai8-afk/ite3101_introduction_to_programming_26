@@ -8,7 +8,7 @@ bool_one = False  # We did this one for you!
 bool_two = False
 
 # 1**2 <= -1
-bool_three = flase
+bool_three = Flase
 
 # 40 * 4 >= -4
 bool_four = None
