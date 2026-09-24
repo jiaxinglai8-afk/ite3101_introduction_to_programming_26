@@ -4,5 +4,5 @@ now = datetime.now()
 print(now)
 print(now.year)
 print(now.month)
-print(now)
+print(now.day)
 
