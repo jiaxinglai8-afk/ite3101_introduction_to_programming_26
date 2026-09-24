@@ -1,6 +1,6 @@
 # Assign True or False as appropriate on the lines below!
 
-# (20-10et this to True if 17 < 328 or to False if it is not.
+et this to True if 17 < 328 or to False if it is not.
 bool_one = False  # We did this one for you!
 
 # Set this to True if 100 == (2 * 50) or to False otherwise.
