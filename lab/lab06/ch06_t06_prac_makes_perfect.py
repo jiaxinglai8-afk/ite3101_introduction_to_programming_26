@@ -2,4 +2,4 @@ def one_good_turn(n:int):
     return n + 1
 
 
-def deserves_another(n:)
+def deserves_another(n:in6t)
