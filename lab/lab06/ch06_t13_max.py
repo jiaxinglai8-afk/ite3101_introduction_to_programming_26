@@ -1,6 +1,6 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-manimum = min(-1, -2, 10, -11.1)
+minimum = min(-1, -2, 10, -11.1)
 
 
-print(manimum)
+print(minimum)
