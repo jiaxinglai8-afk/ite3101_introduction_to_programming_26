@@ -4,4 +4,4 @@ from typing import Any
 def cube(nuber: int) ->int:
     return nuber * nuber
 
-def by_three
+def by_three()
