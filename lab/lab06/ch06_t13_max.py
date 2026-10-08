@@ -2,4 +2,5 @@
 
 maximum = min
 
+
 print(maximum)
