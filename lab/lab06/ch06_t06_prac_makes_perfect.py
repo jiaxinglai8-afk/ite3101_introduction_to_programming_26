@@ -1,4 +1,4 @@
 from typing import Any
 
 
-def cube(nuber)
+def cube(nuber:it)
