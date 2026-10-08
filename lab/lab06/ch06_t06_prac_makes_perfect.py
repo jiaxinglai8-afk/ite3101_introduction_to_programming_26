@@ -1,1 +1,1 @@
-def one 
+def one_good
