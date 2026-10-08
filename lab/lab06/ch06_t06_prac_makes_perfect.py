@@ -1,1 +1,1 @@
-def one_good_turn(n:)
+def one_good_turn(n:int)
