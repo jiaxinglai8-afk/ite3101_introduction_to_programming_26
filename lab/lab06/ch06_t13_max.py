@@ -3,4 +3,4 @@
 manimum = min(-1, -2, 10, -11.1)
 
 
-print(maximum)
+print(manimum)
