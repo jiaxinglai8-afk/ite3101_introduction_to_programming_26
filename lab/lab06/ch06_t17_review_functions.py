@@ -1,1 +1,2 @@
-def shut_down(s:strd->)
+def shut_down(s:strd)->str;
+    
