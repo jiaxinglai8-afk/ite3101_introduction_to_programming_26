@@ -1,3 +1,2 @@
-def shut_down(s:strd)->str;
+def shut_down(s:strd)->str:
     if s== "yes"
-    
