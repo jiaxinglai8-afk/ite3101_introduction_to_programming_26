@@ -3,4 +3,4 @@ def shut_down(s:strd)->str:
         return"Shutting down"
     if s=="no":
     else:
-        return"sorry
+        return"Sorry
