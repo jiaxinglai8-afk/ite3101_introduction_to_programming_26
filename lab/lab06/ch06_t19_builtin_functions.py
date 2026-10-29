@@ -1,1 +1,1 @@
-def distance_from_9D: A
+def distance_from_zero: A
