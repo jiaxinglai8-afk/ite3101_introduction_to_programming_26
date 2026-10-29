@@ -1,1 +1,1 @@
-def distance_from_zero: (d:ArithmeticError)
+def distance_from_zero: (d:Any)
