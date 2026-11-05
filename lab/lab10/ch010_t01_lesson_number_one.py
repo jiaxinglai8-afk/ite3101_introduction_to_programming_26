@@ -5,4 +5,9 @@ lloyd = {
   "tests": []
 }
 
-alice=
+alice = {
+   "name": "Alice"
+
+
+
+}
