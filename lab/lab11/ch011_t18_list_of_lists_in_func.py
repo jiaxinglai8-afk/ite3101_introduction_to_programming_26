@@ -9,5 +9,5 @@ def flatten(lists: List[List[int]])->List[int]:
     results = []
     for levl1 in lists:
         for levl2 in levl1:
-        results.append(levl2)
+            results.append(levl2)
 # print(flatten(n))
