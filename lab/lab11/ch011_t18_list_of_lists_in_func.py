@@ -10,4 +10,5 @@ def flatten(lists: List[List[int]])->List[int]:
     for levl1 in lists:
         for levl2 in levl1:
             results.append(levl2)
+    return results
 # print(flatten(n))
