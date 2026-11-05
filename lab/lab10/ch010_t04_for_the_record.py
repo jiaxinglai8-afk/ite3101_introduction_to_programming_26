@@ -20,4 +20,5 @@ students = [lloyd, alice, tyler]
 
 for student in students:
     print(student["name"])
-    print(student["homewo"])
+    print(student["homework"])
+    print(student)["quizzes"]
