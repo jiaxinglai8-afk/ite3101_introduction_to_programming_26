@@ -32,4 +32,4 @@ def compute_bill(food: List[str]):
     return total
 
 
-print(comoute)
+print(compute_bill)
