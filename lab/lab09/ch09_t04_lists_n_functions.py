@@ -4,4 +4,6 @@ from typing import List
 
 def fizz_count(words: List[str]) -> int:
     count = 0
-    for
+    for word in words
+        if word == "fizz":
+            c
