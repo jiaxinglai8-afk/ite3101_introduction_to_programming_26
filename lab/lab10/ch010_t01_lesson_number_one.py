@@ -8,7 +8,8 @@ lloyd = {
 alice = {
    "name": "Alice"
    "homework": [],
-   "quizzes"
+   "quizzes": [],
+   
 
 
 }
