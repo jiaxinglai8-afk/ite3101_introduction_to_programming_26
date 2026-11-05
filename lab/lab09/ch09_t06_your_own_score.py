@@ -1,6 +1,6 @@
 prices ={
-     "banana"
-
+     "banana":4,
+''
 
 
 }
