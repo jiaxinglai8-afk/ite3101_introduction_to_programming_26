@@ -2,4 +2,6 @@
 
 from typing import List
 
-def fizz_count(words: List[str])
+def fizz_count(words: List[str]) -> int:
+    count = 0
+    for
