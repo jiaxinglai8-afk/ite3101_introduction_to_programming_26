@@ -20,4 +20,4 @@ tyler = {
 # Add your function below!
 
 
-def average
+def average(number :)
