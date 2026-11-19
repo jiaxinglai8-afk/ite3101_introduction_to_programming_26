@@ -2,4 +2,7 @@
 
 
 def count(sequence: List[int], item: int) -> int:
-    res
+    result = 0
+    for i in sequence:
+       if i == item:
+          
