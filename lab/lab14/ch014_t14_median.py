@@ -1,4 +1,5 @@
 from typing import List
 
 
-def median(lst)
+def median(lst: List[int]) -> float:
+    
