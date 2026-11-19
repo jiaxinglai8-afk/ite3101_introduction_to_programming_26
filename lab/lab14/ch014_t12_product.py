@@ -1,0 +1,1 @@
+def product(seq: l)
